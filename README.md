@@ -55,7 +55,7 @@ Son_MaryJhoanne_FinalProject/
 ## Demo Video
 
 Watch the full walkthrough here:
-
+https://youtu.be/Mff5d-AWdYw?si=_O5cQmocVOawzBKJ
 
 ---
 
@@ -64,7 +64,7 @@ Watch the full walkthrough here:
 Clone the repository and install dependencies:
 
 ```bash
-git clone 
+git clone https://github.com/jhoanneson/Son_MaryJhoanne_FinalProject.git
 cd Son_MaryJhoanne_FinalProject
 pip install -r requirements.txt
 
